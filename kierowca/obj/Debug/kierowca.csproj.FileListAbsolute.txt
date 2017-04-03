@@ -1,0 +1,60 @@
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\bin\Debug\kierowca.exe.config
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\bin\Debug\kierowca.exe
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\bin\Debug\kierowca.pdb
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\obj\Debug\kierowca.csprojResolveAssemblyReference.cache
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\obj\Debug\kierowca.Form1.resources
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\obj\Debug\kierowca.Properties.Resources.resources
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\obj\Debug\kierowca.csproj.GenerateResource.Cache
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\obj\Debug\kierowca.exe
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\obj\Debug\kierowca.pdb
+c:\users\frania\documents\visual studio 2012\Projects\kierowca\kierowca\obj\Debug\kierowca.Form2.resources
+C:\Visual Studio\kierowca\kierowca\bin\Debug\kierowca.exe.config
+C:\Visual Studio\kierowca\kierowca\obj\Debug\kierowca.exe
+C:\Visual Studio\kierowca\kierowca\obj\Debug\kierowca.pdb
+C:\Visual Studio\kierowca\kierowca\bin\Debug\kierowca.exe
+C:\Visual Studio\kierowca\kierowca\bin\Debug\kierowca.pdb
+C:\Visual Studio\kierowca\kierowca\obj\Debug\kierowca.Form1.resources
+C:\Visual Studio\kierowca\kierowca\obj\Debug\kierowca.Form2.resources
+C:\Visual Studio\kierowca\kierowca\obj\Debug\kierowca.Properties.Resources.resources
+C:\Visual Studio\kierowca\kierowca\obj\Debug\kierowca.csproj.GenerateResource.Cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\bin\Debug\kierowca.exe.config
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\obj\Debug\kierowca.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\obj\Debug\kierowca.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\bin\Debug\kierowca.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\bin\Debug\kierowca.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\obj\Debug\kierowca.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\obj\Debug\kierowca.Form1.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\obj\Debug\kierowca.Form2.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\obj\Debug\kierowca.Properties.Resources.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\obj\Debug\kierowca.csproj.GenerateResource.Cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\obj\Debug\kierowca.Form3.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca\kierowca\kierowca\obj\Debug\kierowca.Form4.resources
+C:\Visual Studio\kierowca\kierowca\obj\Debug\kierowca.Form3.resources
+C:\Visual Studio\kierowca\kierowca\obj\Debug\kierowca.Form4.resources
+C:\Visual Studio\kierowca\kierowca\obj\Debug\kierowca.Form5.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\bin\Debug\kierowca.exe.config
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\bin\Debug\kierowca.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\bin\Debug\kierowca.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form1.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form2.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form3.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form4.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form5.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.Properties.Resources.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\kierowca2\kierowca\obj\Debug\kierowca.csproj.GenerateResource.Cache
+E:\Projects\kierowca2\kierowca\bin\Debug\kierowca.exe.config
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.exe
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.pdb
+E:\Projects\kierowca2\kierowca\bin\Debug\kierowca.exe
+E:\Projects\kierowca2\kierowca\bin\Debug\kierowca.pdb
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.csprojResolveAssemblyReference.cache
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form1.resources
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form2.resources
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form3.resources
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form4.resources
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.Form5.resources
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.Properties.Resources.resources
+E:\Projects\kierowca2\kierowca\obj\Debug\kierowca.csproj.GenerateResource.Cache
